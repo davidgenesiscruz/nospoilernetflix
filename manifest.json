@@ -1,0 +1,15 @@
+{
+    "author": "David Genesis Cruz",
+    "name": "No Spoiler Netflix",
+    "version": "1.0.0",
+    "description": "Blur preview images for next episode",
+    "manifest_version": 2,
+    "content_scripts": [
+        {
+            "matches": [ "https://www.netflix.com/*" ],
+            "css": [ "nospoilernetflix.css" ]
+        }
+    ],
+    "short_name": "No Spoiler Netflix",
+    "web_accessible_resources": ["nospoilernetflix.css"]
+}

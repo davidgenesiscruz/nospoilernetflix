@@ -1,0 +1,7 @@
+.AkiraPlayer .WatchNext-still {
+    filter: blur(20px);
+}
+
+.nfp-episode-preview .thumbnail-image {
+    filter: blur(20px);
+}
