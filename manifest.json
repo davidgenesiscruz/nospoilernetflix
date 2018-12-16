@@ -7,9 +7,9 @@
     "content_scripts": [
         {
             "matches": [ "https://www.netflix.com/*" ],
-            "css": [ "nospoilernetflix.css" ]
+            "css": [ "inject.css" ]
         }
     ],
     "short_name": "No Spoiler Netflix",
-    "web_accessible_resources": ["nospoilernetflix.css"]
+    "web_accessible_resources": ["inject.css"]
 }
