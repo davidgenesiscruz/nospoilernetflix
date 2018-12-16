@@ -1,8 +1,8 @@
-.AkiraPlayer .WatchNext-still {
-    filter: blur(20px);
+.AkiraPlayer .player-loading-background-image-loaded {
+    filter: blur(30px);
 }
 
-.AkiraPlayer .player-loading-background-image-loaded {
+.AkiraPlayer .WatchNext-still {
     filter: blur(20px);
 }
 
