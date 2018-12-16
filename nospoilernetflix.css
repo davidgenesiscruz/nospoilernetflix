@@ -2,6 +2,10 @@
     filter: blur(20px);
 }
 
+.AkiraPlayer .player-loading-background-image-loaded {
+    filter: blur(20px);
+}
+
 .nfp-episode-preview .thumbnail-image {
     filter: blur(20px);
 }
